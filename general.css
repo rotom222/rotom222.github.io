@@ -48,6 +48,6 @@ td {
 	background-repeat: no-repeat;
 	border: 1px dotted black;
 }
-td:hover {
+td.pkm:hover {
 	background-color: rgb(200,200,200);
 }
